@@ -1,1 +1,9 @@
 # my-second-repo
+## NAME
+TIANYU CHEN
+## AGE
+21
+## MAJOR
+BIOCHEMISTRY
+## UNIVERSITY
+UC SAN DIEGO
